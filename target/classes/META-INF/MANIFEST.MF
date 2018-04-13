@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootHibernate
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.programmer.gate
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootHi
+ bernate/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
